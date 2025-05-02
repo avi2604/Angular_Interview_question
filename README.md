@@ -1,5 +1,6 @@
-**#Angular Routing realtes Questions::- 
+**#Angular Routing realtes Questions::-** 
 🔰 Basic Level
+
 What is Angular Routing?
 
 How do you configure routes in Angular?
@@ -18,6 +19,7 @@ What is the default route and how is it configured?
 
 
 🧩 Intermediate Level
+
 What is route guarding and what types of guards are available?
 
 CanActivate, CanActivateChild, CanDeactivate, Resolve, CanLoad
@@ -35,6 +37,7 @@ What is lazy loading in routing, and how do you implement it?
 Difference between forRoot() and forChild() in routing modules?
 
 🚀 Advanced Level
+
 What are Named Router Outlets and when should you use them?
 
 How do you preload lazy-loaded modules?
