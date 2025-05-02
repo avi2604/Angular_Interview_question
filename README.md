@@ -1,3 +1,38 @@
+**#Angular Routing realtes Questions::- 
+🔰 Basic Level
+What is Angular Routing?
+How do you configure routes in Angular?
+What is the purpose of <router-outlet>?
+What is the difference between routerLink and href?
+How do you perform programmatic navigation in Angular?
+e.g., using Router.navigate() or navigateByUrl()
+What is a wildcard route (**) and when do you use it?
+What is the default route and how is it configured?
+
+🧩 Intermediate Level
+What is route guarding and what types of guards are available?
+CanActivate, CanActivateChild, CanDeactivate, Resolve, CanLoad
+What are route parameters and how do you retrieve them?
+ActivatedRoute.snapshot.paramMap or params observable
+What are query parameters and how are they accessed?
+How do child routes work in Angular?
+What is lazy loading in routing, and how do you implement it?
+Difference between forRoot() and forChild() in routing modules?
+
+🚀 Advanced Level
+What are Named Router Outlets and when should you use them?
+How do you preload lazy-loaded modules?
+Custom preload strategies, PreloadAllModules
+What is router state and how can you access it?
+What is the role of RouteReuseStrategy?
+What’s the difference between params, queryParams, and fragment?
+How do you implement guards that depend on async/observable data?
+How does Angular handle route transitions and animations?
+
+
+
+
+
 # Angular_Interview_question
 Angular interview questions
 
