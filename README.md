@@ -22,7 +22,7 @@ What is the default route and how is it configured?
 
 What is route guarding and what types of guards are available?
 
-CanActivate, CanActivateChild, CanDeactivate, Resolve, CanLoad
+CanActivate, CanActivateChild, CanDeactivate, Resolve, CanLoad, Can Match 
 
 What are route parameters and how do you retrieve them?
 
