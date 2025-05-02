@@ -1,3 +1,73 @@
+**Angular Dependency Injection realtes Qatiosns:-**
+
+🔰 **Basic Level**
+
+What is Dependency Injection in Angular?
+
+Why is Dependency Injection important in Angular?
+
+What is a service in Angular?
+
+How do you create a service in Angular?
+
+How do you inject a service into a component or another service?
+
+What is the role of the @Injectable() decorator?
+
+Where can you provide a service (component, module, root)?
+
+🧩 **Intermediate Level**
+
+What is the difference between providedIn: 'root' vs providing in a module?
+
+What is a singleton service in Angular?
+
+What happens if you provide a service in a component?
+
+How can you create a hierarchical injector in Angular?
+
+How do you use the @Inject() decorator to manually inject dependencies?
+
+What is the difference between a factory provider and a class provider?
+
+What are useClass, useExisting, useValue, and useFactory in DI?
+
+How does Angular resolve dependency tree conflicts or circular dependencies?
+
+What is Injector and how do you use it manually?
+
+🚀 **Advanced Level**
+
+How do you implement a service with multiple implementations (strategy pattern)?
+
+What is tree-shakable DI with providedIn and how does it work?
+
+How does Angular handle optional dependencies with @Optional()?
+
+How do multi: true providers work in Angular DI?
+
+What is a Token in Angular DI? What are InjectionTokens and when are they needed?
+
+How would you inject platform/browser-specific implementations using DI?
+
+How does Angular's DI differ from other frameworks like NestJS or Spring?
+
+What is Dependency Injection Hierarchy and how does scoping affect instances?
+
+How can you overrie a service for unit testing or in specific modules/components?
+
+🛠 Bonus Topics
+
+Service lifecycle and how Angular handles instantiation and destruction.
+
+DI in Standalone components (introduced in Angular 14+).
+
+DI for configuration objects using InjectionToken.
+
+
+
+
+
 **#Angular Routing realtes Questions::-** 
 🔰 Basic Level
 
